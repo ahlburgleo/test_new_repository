@@ -1,4 +1,4 @@
-Here is my quickstart guide to Git Bash!
+Here is my quickstart guide to Git Bash! (Credit to Tianqi Zhao 'sotzee' who created the tutorial that I based this off)
 
 Github is a tool that allows individuals or collaborations to create objects known as repositories that can be published online on the Github website, so others can download and use it. The main attraction of Github is that it allows very convenient tracking and resotration of different versions of the files. This makes collaboration and sharing code convenient. 
 
